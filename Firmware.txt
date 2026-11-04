@@ -1,0 +1,52 @@
+O que é um Firmware?: 
+O Firmware é um tipo de software desenvolvido para controlar o funcionamento de um equipamento eletrônico
+Ele fica armazenado em uma memória não volátil, ou seja, uma memória que mantém as informações mesmo quando o equipamento está desligado.
+Diferentemente de programas comuns, que geralmente são instalados e executados dentro de um sistema operacional, o firmware pode atuar diretamente no controle do hardware.
+
+
+Onde podemos encontrar Firmwares?:
+
+• Placas-mãe.
+• Roteadores Wi-Fi.
+• Impressoras.
+• SSDs.
+• HDs.
+• Placas de vídeo.
+• Smart TVs.
+• Câmeras digitais.
+• Smartphones.
+• Dispositivos USB
+
+
+Como o Firmware funciona?:
+
+Toda vez que esquecer como funciona um Firmware, Imagine um roteador Wi-Fi. Quando você liga o roteador, ele precisa executar instruções para inicializar seus
+componentes, controlar as conexões de rede e disponibilizar o sinal Wi-Fi.
+(Obs: Em um computador, o firmware da placa-mãe possui a responsabilidade de realizar tarefas fundamentais para
+que a máquina consiga iniciar.)
+
+
+Onde o Firmware fica armazenado?:
+
+Em computadores modernos, o firmware da placa-mãe normalmente fica armazenado em um chip de memória
+Flash, geralmente do tipo SPI NOR.
+Essa memória permite que o fabricante disponibilize atualizações para corrigir falhas, melhorar a
+compatibilidade e adicionar recursos.
+(Atenção: BIOS e UEFI são exemplos de firmware utilizados na inicialização de computadores.
+Portanto, não são tecnologias completamente separadas do conceito de firmware: são
+implementações de firmware.)
+
+
+Por que atualizar um Firmware?:
+
+• Corrigir falhas de funcionamento.
+• Melhorar a compatibilidade com processadores.
+• Corrigir problemas de segurança.
+• Melhorar a compatibilidade com memórias RAM.
+• Adicionar suporte a novos dispositivos.
+• Corrigir problemas relacionados à inicialização.
+
+(Cuidado técnico: Uma atualização incorreta ou interrompida do firmware da placa-mãe pode impedir
+que o computador inicialize. Esse problema é conhecido popularmente como brick. Nunca atualize o
+firmware sem verificar o modelo e a revisão da placa-mãe, utilizar o arquivo oficial do fabricante e
+seguir as instruções específicas do equipamento.)
