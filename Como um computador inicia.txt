@@ -1,0 +1,8 @@
+O computador precisa verificar se seus componentes estão funcionando, reconhecer os dispositivos conectados, encontrar onde está instalado o sistema operacional e, finalmentem carrega-lo na memória. (incrível que isso tudo acontece tão rápido!)
+Esse processo se chama Boot, ou inicialização
+
+Processo de inicialização:
+A fonte fornece energia para componentes do computador (que estão na placa-mãe). Com essa energia, a CPU começa a executar as instruções iniciais definidas pela plataforma.
+Após essa execução, o firmware (já instalado na placa-mãe) é executado. Em seguida, o POST (Power-On Self-Test, ou Autoteste de Inicialização) realiza verificações iniciais dos componentes. 
+Aí o BIOS ou UEFI identifica os dispositivos e procura uma opção de inicialização. O Bootloader, que é um programa responsável por iniciar o sistema operacional, é executado.
+Com isso, o sistema operacional, podendo ser Windows, Linux, etc... começa a carregar e finalmente disponibiliza o computador para uso.
