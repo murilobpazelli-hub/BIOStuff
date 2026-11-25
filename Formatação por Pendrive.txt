@@ -1,6 +1,0 @@
-Como funciona:
-A formatação pode ser efetuada caso queira substituir o sistema operacional atual por um limpo, ou seja
-
-
-Erros:
-Quando for formatar um computador por pendrive e ocorrer um erro, é possível resolve-lo ao inserir o pen drive na entrada de trás do gabinete.
